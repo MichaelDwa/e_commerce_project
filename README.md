@@ -8,7 +8,7 @@ This project intends to analyze online consumer behavior and provide insights in
 -	Analyze sales and profits in different regions to find trends and growth opportunities.
 -	Study how different customer groups buy products, looking at order volume, discounts, and product interests.
 -	Examine how shipping methods and delivery times affect customer satisfaction, sales, and profits.
--	Measure customer lifetime value in different segments and find factors that help retain customers.
+-	Measure customer lifetime value (CLV) in different segments and find factors that help retain customers.
 -	Identify key customer segments, products, and regions to target for promotions.
 -	Understand how different shipping methods affect profits and sales, and find the most cost-effective options.
 
