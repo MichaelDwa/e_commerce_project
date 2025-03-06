@@ -495,6 +495,6 @@ ORDER BY
 
 ![Tableau Preview](online_consumer_analysis_visualizations.pdf)
 
-[Click here to view the full Tableau dashboard](https://public.tableau.com/views/Project1E-Commerce/shipping_time_and_sales?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[Click here to view the full Tableau dashboard](https://public.tableau.com/views/Project1E-Commerce/highest_profit_margins?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
