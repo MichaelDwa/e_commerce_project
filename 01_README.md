@@ -493,7 +493,7 @@ ORDER BY
 
 ## Tableau Visualizations
 
-![Tableau Preview](online_consumer_analysis_visualizations.pdf)
+![Tableau Preview](03_visualizations_online_consumer_analysis.pdf)
 
 [Click here to view the full Tableau dashboard](https://public.tableau.com/views/Project1E-Commerce/highest_profit_margins?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
