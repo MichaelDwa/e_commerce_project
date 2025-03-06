@@ -493,7 +493,7 @@ ORDER BY
 
 ## Tableau Visualizations
 
-![Tableau Preview](online_consumer_behavior.pdf)
+![Tableau Preview](online_consumer_analysis_visualizations.pdf)
 
 [Click here to view the full Tableau dashboard](https://public.tableau.com/views/Project1E-Commerce/shipping_time_and_sales?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
