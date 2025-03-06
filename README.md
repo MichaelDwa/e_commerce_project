@@ -491,3 +491,7 @@ ORDER BY
     avg_margin DESC;
 ```
 
+## Tableau Visualizations
+
+![Tableau Chart](https://public.tableau.com/views/Project1E-Commerce/shipping_time_and_sales?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+
