@@ -378,7 +378,7 @@ ORDER BY
     total_profit DESC, total_sales DESC;
 ```
 
-## 6B. Which types of products or shipping methods should be promoted to maximize overall profit margins? 
+### 6B. Which types of products or shipping methods should be promoted to maximize overall profit margins? 
 
 ```sql
 SELECT 
