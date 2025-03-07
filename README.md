@@ -23,7 +23,7 @@ The data for this project is sourced from the Kaggle dataset:
 
 ## Tableau Visualizations
 
-![Tableau Preview](03_visualizations_online_consumer_analysis.pdf)
+![Tableau Preview](02_visualizations_online_consumer_analysis.pdf)
 
 [Click here to view the full Tableau dashboard](https://public.tableau.com/views/Project1E-Commerce/highest_profit_margins?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
