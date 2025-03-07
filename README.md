@@ -21,6 +21,12 @@ The data for this project is sourced from the Kaggle dataset:
 
 - **Dataset Link:** [Online Shopping Consumer Behavior Dataset](https://www.kaggle.com/datasets/thedevastator/online-shopping-consumer-behavior-dataset/data)
 
+## Tableau Visualizations
+
+![Tableau Preview](03_visualizations_online_consumer_analysis.pdf)
+
+[Click here to view the full Tableau dashboard](https://public.tableau.com/views/Project1E-Commerce/highest_profit_margins?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 ## Schema
 
 ```sql
@@ -491,9 +497,4 @@ ORDER BY
     avg_margin DESC;
 ```
 
-## Tableau Visualizations
-
-![Tableau Preview](03_visualizations_online_consumer_analysis.pdf)
-
-[Click here to view the full Tableau dashboard](https://public.tableau.com/views/Project1E-Commerce/highest_profit_margins?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
