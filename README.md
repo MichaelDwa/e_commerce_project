@@ -1,4 +1,4 @@
-## Online Consumer Behavior Analysis using SQL and Tableau
+## Online Consumer Behavior Analysis
 
 ## Overview
 This project intends to analyze online consumer behavior and provide insights into product profitability, customer trends, geographic insights, and other topics. The assessment is based on a dataset that includes sales, profits, shipping expenses, and meaningful customer information.
